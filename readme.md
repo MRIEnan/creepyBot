@@ -98,6 +98,30 @@ python main.py
 
 The realtime data of the particular coin pair is fetched from the determined source from the settings of ui. Then we do some calculation based on the Moving Average (MA), RSI relative stress index, macd etc.
 
+## Risk Disclaimer
+
+❗ **By using this software, you agree that:**
+
+- You understand cryptocurrency trading risks
+- You alone are responsible for any losses
+- This is experimental software - **no guarantees** of profitability
+- Always test in sandbox mode first
+
+## Safety Recommendations
+
+🛡️ **Mandatory precautions:**
+
+1. Only use **testnet API keys** during development
+2. Start with **<$10** if testing with real funds
+3. Monitor bot activity **24/7** in initial deployments
+4. Implement **stop-losses** at exchange level
+
+## Features
+
+✅ Technical indicators (RSI, MACD, Bollinger Bands)  
+✅ Multi-exchange support  
+✅ Telegram alerts
+
 ## Conclusion
 
 <span><small>This project is only for educational purpose. And the calculated signal is not precise. So do not follow the signal seriously. And if anyone use this and the signal not matched with the actual status, I means we will not take any credit.</small></br>
