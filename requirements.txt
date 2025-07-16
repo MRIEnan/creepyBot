@@ -1,0 +1,7 @@
+ccxt==4.2.85
+pandas==2.1.4
+ta==0.10.2
+requests==2.31.0
+ttkthemes==3.2.2
+python-dateutil==2.8.2
+numpy==1.26.3

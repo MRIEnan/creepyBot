@@ -1,0 +1,5 @@
+newvenv
+config.csv
+__pycache__
+**/__pycache__/
+**/*.ignore.py
